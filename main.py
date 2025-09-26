@@ -1,0 +1,1 @@
+print("código criado pelo desenvolvedor python.")
